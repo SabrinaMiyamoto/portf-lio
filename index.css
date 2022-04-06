@@ -52,3 +52,44 @@ footer p{
 nav a:hover {
     color: deepskyblue;
 }
+h3 p{
+    text-align: justify;
+    border: solid;
+}
+h2 {
+    color: deepskyblue;
+    text-align: center;
+}
+
+#fotomae{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 5px solid rgb(73, 228, 255);
+}
+#fotoju{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 5px solid rgb(73, 228, 255);
+}
+#fotopai{
+    width: 110px;
+    height: 110px;
+
+    border-radius: 50%;
+    border: 5px solid rgb(73, 228, 255);
+}
+#fotothi{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 5px solid rgb(73, 228, 255);
+}
+.row{
+    text-align: center;
+}
+main{
+    padding: 10px;
+    border: 1px solid rgb(221, 194, 146);
+}
